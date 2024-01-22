@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Psi.Prontuarios.Api.props" />
+</Project>

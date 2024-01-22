@@ -1,0 +1,12 @@
+E:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\bin\Debug\net8.0\Psi.Prontuarios.Core.deps.json
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\bin\Debug\net8.0\Psi.Prontuarios.Core.dll
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\bin\Debug\net8.0\Psi.Prontuarios.Core.pdb
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\Psi.Prontuarios.Core.GeneratedMSBuildEditorConfig.editorconfig
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\Psi.Prontuarios.Core.AssemblyInfoInputs.cache
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\Psi.Prontuarios.Core.AssemblyInfo.cs
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\Psi.Prontuarios.Core.csproj.CoreCompileInputs.cache
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\Psi.Prontuarios.Core.sourcelink.json
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\Psi.Prontuarios.Core.dll
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\refint\Psi.Prontuarios.Core.dll
+e:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\Psi.Prontuarios.Core.pdb
+E:\IT\.NET Projects\Psi.Protuarios\Psi.Prontuarios.Core\obj\Debug\net8.0\ref\Psi.Prontuarios.Core.dll
